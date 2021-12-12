@@ -8,4 +8,7 @@ echo "copy paste these commands to install tools in kali
 
 ./start-kali.sh
 
-echo "git clone https://github.com/Dorabotmaster/Kali-Linux
+echo "git clone https://github.com/Dorabotmaster/Kali-Linux"
+echo "Now cd to the Kali direcory and type
+sh install.sh and it will install Kali Linux on your mobile :)
+"
