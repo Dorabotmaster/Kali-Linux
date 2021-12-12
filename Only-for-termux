@@ -1,0 +1,11 @@
+echo "make sure you are usin this in termux all you have to do is to do as shown"
+echo "INSTALLING KALI"
+sleep 0.7
+echo "PREPARING"
+pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
+echo "we have installed kali-ssh now 
+echo "copy paste these commands to install tools in kali
+
+./start-kali.sh
+
+echo "git clone https://github.com/Dorabotmaster/Kali-Linux
