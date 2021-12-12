@@ -1,102 +1,103 @@
 # Kali-Linux
 This script will install Kali Linux on termux without root with all tools(ssh) 
 # Tools:
-Information Gathering:
+# Information Gathering:
 
-Nmap
-Zenmap
-Stealth scan
+Nmap.     
+Zenmap.     
+Stealth.    
+scan.    
 
-Vulnerability Analysis
+# Vulnerability Analysis
 
-Bed
-Ohrwurm
-Powerfuzzer
-Sfuzz
-Siparmyknife
+Bed.    
+Ohrwurm.     
+Powerfuzzer.    
+Sfuzz.       
+Siparmyknife.      
 
-Web Application Analysis
+# Web Application Analysis.
 
-Burpsuite
-Httrack
-Sqlmap
-Vega
-Webscarab
-Wpscan
+Burpsuite.    
+Httrack.    
+Sqlmap.    
+Vega.    
+Webscarab.    
+Wpscan.    
 
-Database Assessment
+# Database Assessment.    
 
-Bbqsl
-Jsql injection
-Oscanner
-Sqlmap
-Sqlninja
-Tmscmd10g
+Bbqsl.     
+Jsql injection.    
+Oscanner.     
+Sqlmap.    
+Sqlninja.    
+Tmscmd10g.     
 
-Password Attacks
+# Password Attacks
 
-Crewl
-Crunch
-Hashcat
-John
-Johnny
-Medusa
+Crewl.    
+Crunch.    
+Hashcat.    
+John.    
+Johnny.    
+Medusa.    
 
-Wireless Attacks
+# Wireless Attacks
 
-Aircrack-ng
-Fern- wifi –cracker
-Kismet
-Ghost Phisher
+Aircrack-ng.
+Fern- wifi –cracker.
+Kismet.
+Ghost Phisher.
 
-Reverse Engineering
+# Reverse Engineering
 
-Apktools
-Ollydbg
-Flasm
+Apktools.
+Ollydbg.
+Flasm.
 
-Exploitation Tools
+# Exploitation Tools
 
-Armitage
-Metasploit
-Searchsploit
-Beef xss framework
-termineter
+Armitage.
+Metasploit.
+Searchsploit.
+Beef xss framework.
+termineter.
 
-Sniffing and Spoofing
+# Sniffing and Spoofing
 
-Wireshark
-Bettercap
-Ettercap
-Hamster
-Driftnet
+Wireshark.
+Bettercap.
+Ettercap.
+Hamster.
+Driftnet.
 
-Post Exploitation
+# Post Exploitation
 
-MSF
-Veil –Pillage framework
-Powersploit
+MSF.
+Veil –Pillage framework.
+Powersploit.
 
-Forensics
+# Forensics
 
-Autopsy
-Binwalk
-Galleta
-Hashdeep
-Volafox
-Volatility
+Autopsy.
+Binwalk.
+Galleta.
+Hashdeep.
+Volafox.
+Volatility.
 
-Reporting Tools
+# Reporting Tools
 
-Dradis
-Faraday IDE
-Pipal
-Magictree
+Dradis. 
+Faraday IDE. 
+Pipal. 
+Magictree. 
 
-Social Engineering
+# Social Engineering
 
-SET
-Backdoor-f
-U3-pwn
-Ghost Phisher
+SET.      
+Backdoor-f.  
+U3-pwn.  
+Ghost Phisher.  
 # NOTE:NO TOOLS ARE INSTALLED NOW IT'S UNDER DEVLOPMENT
