@@ -101,3 +101,7 @@ Backdoor-f.
 U3-pwn.  
 Ghost Phisher.  
 # NOTE:NO TOOLS ARE INSTALLED NOW IT'S UNDER DEVLOPMENT
+This tools comes with 61 most useful tools like metasploit,hydra,aircrack and etc
+# NOTE:
+THIS IS FOR EDUCATIONAL PURPOSES ONLY.NO ILLEGAL CASES ARE OUR RESPONSIBILITY
+DON'T INSTALL IF YOU DON'T KNOW WHAT YOU ARE DOING
