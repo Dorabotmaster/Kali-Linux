@@ -45,61 +45,61 @@ Medusa.
 
 # Wireless Attacks
 
-Aircrack-ng.
-Fern- wifi –cracker.
-Kismet.
-Ghost Phisher.
-
+Aircrack-ng.       
+Fern- wifi –cracker.      
+Kismet.        
+Ghost Phisher.       
+    
 # Reverse Engineering
 
-Apktools.
-Ollydbg.
-Flasm.
-
+Apktools.         
+Ollydbg.       
+Flasm.            
+ 
 # Exploitation Tools
 
-Armitage.
-Metasploit.
-Searchsploit.
-Beef xss framework.
-termineter.
+Armitage.       
+Metasploit.      
+Searchsploit.      
+Beef xss framework.     
+termineter.       
 
 # Sniffing and Spoofing
 
-Wireshark.
-Bettercap.
-Ettercap.
-Hamster.
-Driftnet.
+Wireshark.    
+Bettercap.     
+Ettercap.     
+Hamster.     
+Driftnet.     
 
 # Post Exploitation
 
-MSF.
-Veil –Pillage framework.
-Powersploit.
+MSF.     
+Veil –Pillage framework.     
+Powersploit.     
 
 # Forensics
 
-Autopsy.
-Binwalk.
-Galleta.
-Hashdeep.
-Volafox.
-Volatility.
+Autopsy.           
+Binwalk.      
+Galleta.      
+Hashdeep.             
+Volafox.            
+Volatility.                               
 
 # Reporting Tools
 
-Dradis. 
-Faraday IDE. 
-Pipal. 
-Magictree. 
+Dradis.                        
+Faraday IDE.                  
+Pipal.                  
+Magictree.          
 
 # Social Engineering
 
-SET.      
-Backdoor-f.  
-U3-pwn.  
-Ghost Phisher.  
+SET.             
+Backdoor-f.            
+U3-pwn.           
+Ghost Phisher.         
 # NOTE:NO TOOLS ARE INSTALLED NOW IT'S UNDER DEVLOPMENT
 This tools comes with 61 most useful tools like metasploit,hydra,aircrack and etc
 # NOTE:
