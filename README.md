@@ -107,6 +107,9 @@ Installation
 To termux to install Kali ssh in termux
 To install tools type ./start-kali.sh
 And paste these commands
+git clone https://github.com/Dorabotmaster/Kali-Linux.git
+cd Kali-Linux
+sh install.sh
 # NOTE:NO TOOLS ARE INSTALLED NOW IT'S UNDER DEVLOPMENT
 This tools comes with 61 most useful tools like metasploit,hydra,aircrack and etc
 # NOTE:
