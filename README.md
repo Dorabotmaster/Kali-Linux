@@ -100,8 +100,18 @@ SET.
 Backdoor-f.            
 U3-pwn.           
 Ghost Phisher.         
+
+
+Installation
+
+To termux to install Kali ssh in termux
+To install tools type ./start-kali.sh
+And paste these commands
 # NOTE:NO TOOLS ARE INSTALLED NOW IT'S UNDER DEVLOPMENT
 This tools comes with 61 most useful tools like metasploit,hydra,aircrack and etc
 # NOTE:
 THIS IS FOR EDUCATIONAL PURPOSES ONLY.NO ILLEGAL CASES ARE OUR RESPONSIBILITY
 DON'T INSTALL IF YOU DON'T KNOW WHAT YOU ARE DOING
+
+
+
