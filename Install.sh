@@ -77,3 +77,50 @@ sudo apt install aircrack-ng
 sudo apt install fern-wifi-cracker
 sudo apt install kismet
 sudo apt-get install ghost-phisher
+cd $HOME
+cd $KALI-LINUX
+cd $ReverseEngineering
+sudo apt install apktool
+sudo apt install ollydbg
+cd $HOME
+cd $KALI-LINUX
+cd ExploitationTools
+
+sudo apt install armitage
+sudo apt install metasploit-framework
+sudo apt install beef-xss
+sudo apt install termineter
+cd $HOME
+cd $KALI-LINUX
+cd $SniffingandSpoofing
+sudo apt install bettercap
+sudo apt install ettercap-common
+sudo apt install ettercap-graphical
+sudo apt install ettercap-text-only
+sudo apt install hamster-sidejack
+sudo apt install driftnet
+cd $HOME
+cd $KALI-LINUX
+cd $PostExploitation
+sudo apt install veil
+sudo apt install powersploit
+cd $HOME
+cd $KALI-LINUX
+cd $Forensics
+sudo apt install autopsy
+sudo apt install binwalk
+sudo apt install galleta
+sudo apt install hashdeep
+sudo apt-get install volafox
+cd $HOME
+cd $KALI-LINUX
+cd $ReportingTools
+sudo apt install faraday
+sudo apt install pipal
+sudo apt-get install magictree
+cd $HOME
+cd $KALI-LINUX
+cd $SocialEngineering
+sudo apt install set
+sudo apt install backdoor-factory
+sudo apt-get install u3-pwn
